@@ -1,0 +1,6 @@
+Container_ID,Risk_Score,Risk_Level,Explanation_Summary
+TLR001,0.018,Low Risk,Risk remains low: shipment pattern is largely consistent with expected trade behavior.
+TLR002,0.0209,Low Risk,Risk remains low: shipment pattern is largely consistent with expected trade behavior.
+TLR003,0.0395,Low Risk,Risk remains low: shipment pattern is largely consistent with expected trade behavior.
+TLR004,0.0297,Low Risk,Risk remains low: shipment pattern is largely consistent with expected trade behavior.
+TLR005,0.0228,Low Risk,Risk remains low: shipment pattern is largely consistent with expected trade behavior.

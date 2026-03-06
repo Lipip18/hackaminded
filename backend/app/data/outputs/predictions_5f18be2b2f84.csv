@@ -1,0 +1,6 @@
+Container_ID,Risk_Score,Risk_Level,Explanation_Summary
+THR001,0.4812,Low Risk,Low risk with minor irregularities; monitor weight/value consistency for confirmation.
+THR002,0.4124,Low Risk,Low risk with minor irregularities; monitor weight/value consistency for confirmation.
+THR003,0.4004,Low Risk,Low risk with minor irregularities; monitor weight/value consistency for confirmation.
+THR004,0.3996,Low Risk,Low risk with minor irregularities; monitor weight/value consistency for confirmation.
+THR005,0.4286,Low Risk,Low risk with minor irregularities; monitor weight/value consistency for confirmation.

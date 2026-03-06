@@ -1,0 +1,6 @@
+Container_ID,Risk_Score,Risk_Level,Explanation_Summary
+THR001,0.808,Critical,"Risk driven by large declared vs measured weight difference, unusual value-to-weight ratio. Review recommended based on combined anomaly indicators."
+THR002,0.4584,Low Risk,Low risk with minor irregularities; monitor weight/value consistency for confirmation.
+THR003,0.0355,Low Risk,Risk remains low: shipment pattern is largely consistent with expected trade behavior.
+THR004,0.802,Critical,"Risk driven by large declared vs measured weight difference, unusual value-to-weight ratio. Review recommended based on combined anomaly indicators."
+THR005,0.4661,Low Risk,Low risk with minor irregularities; monitor weight/value consistency for confirmation.

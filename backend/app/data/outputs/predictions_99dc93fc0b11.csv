@@ -1,0 +1,9 @@
+Container_ID,Risk_Score,Risk_Level,Explanation_Summary
+TMX001,0.0292,Low Risk,Risk remains low: shipment pattern is largely consistent with expected trade behavior.
+TMX002,0.5028,Low Risk,Low risk with minor irregularities; monitor weight/value consistency for confirmation.
+TMX003,0.0235,Low Risk,Risk remains low: shipment pattern is largely consistent with expected trade behavior.
+TMX004,0.4025,Low Risk,Low risk with minor irregularities; monitor weight/value consistency for confirmation.
+TMX005,0.0244,Low Risk,Risk remains low: shipment pattern is largely consistent with expected trade behavior.
+TMX006,0.3903,Low Risk,Low risk with minor irregularities; monitor weight/value consistency for confirmation.
+TMX007,0.0229,Low Risk,Risk remains low: shipment pattern is largely consistent with expected trade behavior.
+TMX008,0.3684,Low Risk,Low risk with minor irregularities; monitor weight/value consistency for confirmation.

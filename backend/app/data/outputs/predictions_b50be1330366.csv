@@ -1,0 +1,11 @@
+Container_ID,Risk_Score,Risk_Level,Explanation_Summary
+CNT001,0.0207,Low Risk,Risk remains low: shipment pattern is largely consistent with expected trade behavior.
+CNT002,0.317,Low Risk,Low risk with minor irregularities; monitor weight/value consistency for confirmation.
+CNT003,0.0248,Low Risk,Risk remains low: shipment pattern is largely consistent with expected trade behavior.
+CNT004,0.4339,Low Risk,Low risk with minor irregularities; monitor weight/value consistency for confirmation.
+CNT005,0.0286,Low Risk,Risk remains low: shipment pattern is largely consistent with expected trade behavior.
+CNT006,0.0288,Low Risk,Risk remains low: shipment pattern is largely consistent with expected trade behavior.
+CNT007,0.7157,Critical,"Risk driven by large declared vs measured weight difference, unusual value-to-weight ratio. Review recommended based on combined anomaly indicators."
+CNT008,0.0265,Low Risk,Risk remains low: shipment pattern is largely consistent with expected trade behavior.
+CNT009,0.0236,Low Risk,Risk remains low: shipment pattern is largely consistent with expected trade behavior.
+CNT010,0.3954,Low Risk,Low risk with minor irregularities; monitor weight/value consistency for confirmation.
